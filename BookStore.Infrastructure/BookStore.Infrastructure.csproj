@@ -25,9 +25,11 @@
   <ItemGroup>
     <None Remove="Context\" />
     <None Remove="Mappings\" />
+    <None Remove="Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Context\" />
     <Folder Include="Mappings\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 </Project>
